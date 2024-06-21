@@ -1,4 +1,4 @@
-![alt text](https://github.com/Zarjevski/NativeWeatherApp)
+![alt text](https://github.com/Zarjevski/NativeWeatherApp/blob/main/src/assets/cover.png)
 
 
 # WeatherApp 🌤️
@@ -10,7 +10,9 @@ WeatherApp is a comprehensive weather application designed to provide real-time 
 **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 1. **Clone the Repository**:
+   ```sh
    git clone https://github.com/Zarjevski/NativeWeatherApp
+   ```
 
 2. **Navigate to the Project Directory**:
    ```sh
